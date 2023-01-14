@@ -10,7 +10,7 @@
 <!-- Badges -->
   <p>
     <a href="https://visitor-badge.glitch.me/badge?page_id=aaafarrr/Auto-Visitor-Blog">
-      <img src="  https://visitor-badge.glitch.me/badge?page_id=aaafarrr/Auto-Visitor-Blog" alt="visitor" />
+      <img src="https://visitor-badge.glitch.me/badge?page_id=aaafarrr/Auto-Visitor-Blog" alt="visitor" />
     </a>
     <a href="https://github.com/aaafarrr/Auto-Visitor-Blog/graphs/contributors">
       <img src="https://img.shields.io/github/contributors/aaafarrr/Auto-Visitor-Blog" alt="contributors" />

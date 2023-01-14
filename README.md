@@ -100,6 +100,8 @@ Go to the project directory
   cd Auto-Visitor-Blog
 ```
 
+Run 
+
 ```bash
   php run.php
 ```

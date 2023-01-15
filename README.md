@@ -119,7 +119,7 @@ Contributions are always welcome!
 <!-- License -->
 ## :warning: License
 
-Distributed under the no License.
+Distributed under the no License. DWYOR !! (Do With Your Own Risk).
 
 
 <!-- Contact -->
